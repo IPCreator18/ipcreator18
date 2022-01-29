@@ -1,9 +1,3 @@
----
-layout: default
-home-title: 爱知
-description: 好专利，找爱知
-header-img: https://user-images.githubusercontent.com/98626903/151642737-03db2c8d-bbde-42ee-9533-40579c33bff4.png
----
 
 ## 爱知
 
