@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
-layout: default
-home-title: 爱知
-description: 好专利，找爱知
-header-img: https://user-images.githubusercontent.com/98626903/151642737-03db2c8d-bbde-42ee-9533-40579c33bff4.png
+
+# Author 配置博主信息
+author: 'IPCreator'
+nickname: 'AhaIPer'
+bio: '专利'
+avatar: 'https://user-images.githubusercontent.com/98626903/151642737-03db2c8d-bbde-42ee-9533-40579c33bff4.png'
