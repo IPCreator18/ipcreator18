@@ -1,6 +1,9 @@
 
 ## 爱知
 
+![image](https://user-images.githubusercontent.com/98626903/151692868-76370916-0583-48bd-b762-9d512bf2e187.png)
+
+
 > 量级，尤其是高质量高价值量级，不管是SEP或是PCT或是海外申请...
 
 ![image](https://user-images.githubusercontent.com/98626903/151648499-a9631559-4656-4b3d-ba3a-79c77c32aaf7.png)
@@ -49,6 +52,9 @@
 《专利撰写质量评价标准》作为汉之光华知识产权专利代理工作的指导标准，现已在代理工作的信息化系统中实施，成为业务标准流程的一部分。在业务实践中，经过几十位代理师、数千件案件的反复推敲；结合多位企业知识产权管理人员的反馈与建议，该标准获得了较高的认可，趋于稳定。 
 
 ## Why
+
+![image](https://user-images.githubusercontent.com/98626903/151692802-a7039d5a-9d1a-43cf-b5b1-9b9509a45567.png)
+
 
 ![image](https://user-images.githubusercontent.com/98626903/151651595-2b274cb4-f0b0-431a-b161-dc66b79532bc.png)
 > 翁曰：“无他，但手熟尔。我亦无他，惟手熟尔。“
