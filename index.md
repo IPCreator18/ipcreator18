@@ -12,6 +12,13 @@
 ![image](https://user-images.githubusercontent.com/98626903/151648578-334cb740-8a2a-4a20-949b-e741b43e7a67.png)
 ![image](https://user-images.githubusercontent.com/98626903/151648619-39aa9bc6-1498-4fa2-90a1-3b5a78e0182b.png)
 
+![image](https://user-images.githubusercontent.com/98626903/151694028-63ba895e-c8d3-4252-9f2b-ab41216e7ae0.png)
+> “请记住，头脑风暴的目的，是为了做加法。即使点子本身没意义，但也可能启发到其他人，同样有价值。”
+
+![image](https://user-images.githubusercontent.com/98626903/151694046-2b29177b-2c5a-41e6-a891-969b3aa606ab.png)
+> “如果你能把40多公里变成很多个5公里，不断地去管理自己的节奏，其实对于一个人来说，这个漫长的比赛过程就变得好忍受很多。”
+
+
 
 ```
 爱知识
